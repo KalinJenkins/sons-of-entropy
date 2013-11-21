@@ -1,1 +1,8 @@
 A repo for some random code to store or share.
+
+munchkin_keeper.py
+	A tool I was writing to automate tracking tasks for the tabletop game munchkin. Largely useless at it's current state, but it may be updated later.
+	
+
+thouShallPass
+	A password generation tool that checks against a pretty large wordlist.
